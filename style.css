@@ -7,16 +7,36 @@ h1{
     text-align: center;
 }
 /*story book design*/
-.storyBook{
-    background-color: #c56a35;
+.storyBook{ 
     width: 30%;
     display: inline-block;
     margin: 16px;
-    text-align: center;
-    color: #ecd7cb;
+    text-align: center; 
 }
 img{
-    padding: auto;
+    margin: 4px;
+}
+/* story book colour one */
+.redBook{
+    background-color: #c56a35;
+    color: #ecd7cb;
+}
+.redImg{
     background-color: #ecd7cb;
 }
-
+/* story book colour two */
+.blueBook{
+    background-color: #355bc5;
+    color: #c6cddf;
+}
+.blueImg{
+    background-color: #c6cddf;
+}
+/* story book colour three */
+.greenBook{
+    background-color: #216e24;
+    color: #9dbb9f;
+}
+.greenImg{
+    background-color: #9dbb9f;
+}
