@@ -20,6 +20,7 @@ img{
 .redBook{
     background-color: #c56a35;
     color: #ecd7cb;
+    transform: rotate(2deg);
 }
 .redImg{
     background-color: #ecd7cb;
@@ -28,6 +29,7 @@ img{
 .blueBook{
     background-color: #355bc5;
     color: #c6cddf;
+    transform: rotate(-3deg);
 }
 .blueImg{
     background-color: #c6cddf;
@@ -36,6 +38,7 @@ img{
 .greenBook{
     background-color: #216e24;
     color: #9dbb9f;
+    transform: rotate(1deg);
 }
 .greenImg{
     background-color: #9dbb9f;
