@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 5%;
+    background-color: #74d6c1;
+}
+h1{
+    text-align: center;
+}
+.storyBook{
+    background-color: rgb(236, 219, 219);
+    width: 30%;
+    display: inline-block;
+    margin: 16px;
+    text-align: center;
+}
