@@ -8,7 +8,7 @@ h1{
 }
 /*story book design*/
 .storyBook{ 
-    width: 30%;
+    width: 35%;
     display: inline-block;
     margin: 16px;
     text-align: center; 
@@ -18,12 +18,12 @@ img{
 }
 /* story book colour one */
 .redBook{
-    background-color: #c56a35;
-    color: #ecd7cb;
+    background-color: #a00505;
+    color: #be9494;
     transform: rotate(2deg);
 }
 .redImg{
-    background-color: #ecd7cb;
+    background-color: #be9494;
 }
 /* story book colour two */
 .blueBook{
@@ -42,4 +42,22 @@ img{
 }
 .greenImg{
     background-color: #9dbb9f;
+}
+
+@media screen and (min-width: 485px){
+    .storyBook{
+        width: 25%;
+    }
+}
+
+@media screen and (min-width: 770px){
+    .storyBook{
+        width: 28%;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .storyBook{
+        width: 30%;
+    }
 }
