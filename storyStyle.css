@@ -1,7 +1,9 @@
-body{
-    padding: 2% 4%;
-}
 
+.page{
+    border: 5px double #4b4f50;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
 .storyArea{
     display: flex;
     font-family: 'Roboto', sans-serif;
@@ -20,7 +22,7 @@ body{
     width: 16px;
     height: 16px;
 }
-#text{
+.text{
     width: 50%;
 }
 .image{
