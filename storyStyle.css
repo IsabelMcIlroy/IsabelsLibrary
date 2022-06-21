@@ -10,6 +10,7 @@
     font-size: 8px;
 }
 .fullImageArea{
+    height: 100%;
     width: 100%;
 }
 #play{
