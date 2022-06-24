@@ -21,7 +21,7 @@ h1{
     padding: 2% 5%;
 }
 .storyBook{ 
-    width: 35%;
+    width: 80%;
     display: inline-block;
     margin: 16px;
     text-align: center; 
@@ -59,7 +59,7 @@ img{
 
 @media screen and (min-width: 485px){
     .storyBook{
-        width: 25%;
+        width: 40%;
     }
 }
 
