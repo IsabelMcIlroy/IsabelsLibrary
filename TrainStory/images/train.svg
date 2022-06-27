@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="-6.265" y="-5.568" width="605.568" height="606.961" style="fill:white;"/>
     <g id="waving" transform="matrix(0.584008,0,0,0.584008,73.3306,155.11)">
         <g transform="matrix(0.485358,-0.326099,-0.326099,-0.485358,169.425,547.284)">
             <path d="M417.236,516.011C417.236,516.011 405.037,511.151 404.837,526.437C404.565,547.23 425.068,581.393 447.051,569.231C462.22,560.838 458.604,550.444 456.879,544.332C453.496,532.345 454.378,536.041 457.599,541.886C463.769,553.079 475.613,552.933 474.257,541.556C472.382,525.832 461.484,515.555 451.449,509.168C441.413,502.782 419.061,513.73 417.236,516.011Z" style="fill:rgb(229,206,122);stroke:black;stroke-width:11.71px;"/>
