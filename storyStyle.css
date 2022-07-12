@@ -1,4 +1,6 @@
-
+body{
+    height: 100vh;
+}
 .page{
     border: 5px double #4b4f50;
     border-radius: 20px;
@@ -8,9 +10,8 @@
     display: flex;
     font-family: 'Roboto', sans-serif;
     font-size: 8px;
-    height: 100vh;
 }
-.fullImageArea{
+.pageTenImageArea{
     height: 100%;
     width: 100%;
 }
