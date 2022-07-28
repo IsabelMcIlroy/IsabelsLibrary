@@ -1,8 +1,7 @@
-# Isabel's Library
+![Screenshot](images/ScreenshotTitle.jpg)
 
 ## Description
 
-This project is a work in progess, so it may not work as it should.\
 A little library that displays and reads story books I've written and illustrated about my nephews and niece.
 
 ## Motivation
