@@ -43,6 +43,7 @@
     background-color: #c2bdbd;
 }
 
+/* changes for medium screens */
 @media screen and (min-width: 450px){
     .storyArea{
         font-size: 12px;
@@ -62,6 +63,7 @@
     }
 }
 
+/* changes for large screens */
 @media screen and (min-width: 700px){
     .page{
         display: flex;
@@ -81,5 +83,13 @@
     }
     .lastImage{
         height: 100%;
+    }
+}
+
+/* next button to display at bottom on small screens */
+@media screen and (max-width: 700px) {
+    .next{
+        position: fixed;
+        bottom: 0;
     }
 }
