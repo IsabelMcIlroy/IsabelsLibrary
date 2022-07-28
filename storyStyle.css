@@ -1,17 +1,20 @@
 html,
 body{
-   width: 100%;
    height: 100vh;
 }
 .page{
     border: 5px double #4b4f50;
     border-radius: 20px;
     margin-bottom: 20px;
+    height: 100vh;
 }
 .storyArea{
     display: flex;
     font-family: 'Roboto', sans-serif;
     font-size: 8px;
+}
+.imageArea{
+    height: auto;
 }
 .pageTenImageArea{
     height: 100%;
@@ -33,14 +36,10 @@ body{
 .text{
     width: 50%;
 }
-.image{
-    justify-content: center;
-}
 .next, .previous{
     background-color: #ffffff;
     border-radius: 20px;
     border: 1px solid #000000;
-    height: 100%;
     width: 100%;
 }
 .next:hover{
@@ -51,16 +50,11 @@ body{
 }
 
 @media screen and (min-width: 450px){
-    .page{
-        display: flex;
-    }
     .storyArea{
         font-size: 12px;
         width: 40%;
     }
-    .imageArea{
-        width: 60%;
-    }
+
     .bi, .bi-play-fill{
         width: 24px;
         height: 24px;
@@ -71,7 +65,17 @@ body{
 }
 
 @media screen and (min-width: 700px){
+    .page{
+        display: flex;
+    }
     .storyArea{
         font-size: 16px;
+        width: 40%;
+    }
+    .imageArea{
+        width: 60%;
+    }
+    .next, .previous{
+        height: 100%;
     }
 }
